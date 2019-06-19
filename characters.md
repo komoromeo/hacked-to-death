@@ -13,7 +13,7 @@ You will need to fill someone's shoes and impersonate them, interacting with the
 The information about your character should be recorded on a character sheet. This sheet should contain:
 
 - The character's **Name, Class and Level**,
-- Their **Attributes, Damage Dice, Hit Points and Armor Points**,
+- Their **Stats, Damage Dice, Hit Points and Armor Points**,
 - **Special Features** and **Profession, Mutations, Powers or Modules**.
 - Their **Inventory** with their gear.
 - Space for conditions like **Hunger, Thirst and Radiation**, unless you are a robot.
@@ -21,7 +21,7 @@ The information about your character should be recorded on a character sheet. Th
 
 ## Starting gear
 
-**Roll twice!** If you don't have enough inventory slots for all of these, tough luck.
+**Roll twice!** If you don't have enough inventory slots for all of these, tough luck. Read up on these items in the Gear section.
 
 | d8   | Starting Gear      |
 | ---- | ------------------ |
@@ -32,7 +32,7 @@ The information about your character should be recorded on a character sheet. Th
 | 5    | Tech               |
 | 6    | d4 Preserved Food  |
 | 7    | d4 Clean Water     |
-| 8    | d4 Random Drugs    |
+| 8    | d4 random Drugs    |
 
 ## Experience & Levels
 
@@ -49,4 +49,4 @@ You gain experience each time you
 - Defeat a major enemy
 - Reach a major personal or group goal
 
-Every character starts at Level 1. **You need to spend 1+Level XP to level up.** When a character levels up, roll the Hit Dice listed for the class and increase the character's Hit Points by the result. A player should also roll a d20 for each Stat. If the result is higher, that Stat increases by 1. The maximum level a character can advance to is 6.
+Every character starts at Level 1. **You need to spend 1+Level XP to level up.** When a character levels up, roll the Hit Dice listed for the class and increase the character's Hit Points by the result. The maximum level a character can advance to is 6.

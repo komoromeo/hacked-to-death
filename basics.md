@@ -10,14 +10,14 @@
 
 ## The core mechanic
 
-Whenever a character tries to do something that is risky and could result in a failure, you test the character's most relevant attribute:
+Whenever a character tries to do something that is risky and could result in a failure, you test the character's most relevant statistic. These stats each have a score, this score can't get lower than 2 or higher than 16. The stats are:
 
 - **Stamina (STAM)** for physical tasks and against Physical Harm that *cannot* be dodged, Poison, Disease, Radiation or Death.
 - **Instinct (INST)** for awareness, reflexes and against Physical Harm that *can* be dodged.
 - **Knowledge (KNOW)** for intelligence, willpower and against Psionic abilities and mind control effects.
 - **Prestige (PRES)** for charisma and against charming effects and bad reactions.
 
-**To make a test, you must roll below the attribute on a d20.** Enemies don’t make tests - a character must avoid their attacks or harmful effects by making a test. The only time a Game Master (GM) would roll is for damage. A roll of 1 is always a critical success with extra benefical effects and a roll of 20 is always a critical failure with extra harmful effects.
+**To make a test, you must roll below the stat on a d20.** Enemies don’t make tests - a character must avoid their attacks or harmful effects by making a test. The only time a Game Master (GM) would roll is for damage. A roll of 1 is always a critical success with extra benefical effects and a roll of 20 is always a critical failure with extra harmful effects.
 
 ## Advantage & Disadvantage
 
